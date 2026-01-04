@@ -1,5 +1,5 @@
 
-![Preview da aplicação](calcualdora.png)
+![Preview da aplicação](calculadora.png)
 
 # 🚀Calculadora
 
